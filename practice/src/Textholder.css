@@ -1,0 +1,38 @@
+.main{
+    text-align: center;
+    
+}
+.nav{
+    box-sizing: border-box;
+    border: 2px solid black;
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+    /* background-color: aquamarine; */
+}
+.home{
+    margin: 10px;
+    font-size: 4vh;
+   
+}
+
+.area{
+    padding: 10px;
+    height: 22vh;
+    width: 45vw;
+}
+button.mybutton{
+    /* background-color: aquamarine;
+    color: black; */
+    height: 5vh;
+    width: 15%;
+    border-radius: 12px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.btn{
+   display: flex;
+   justify-content: flex-end;
+    height: 5vh;
+    width: 75%;
+}
